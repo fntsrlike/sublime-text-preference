@@ -1,0 +1,5 @@
+[
+    { "keys": ["super+t"], "command": "new_file" },
+    { "keys": ["super+n"], "command": "new_window" },
+    { "keys": ["ctrl+super+t"], "command": "phpcs_clear_sniffer_marks" }
+]

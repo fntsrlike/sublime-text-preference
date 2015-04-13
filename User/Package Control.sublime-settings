@@ -1,0 +1,28 @@
+{
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"ApacheConf.tmLanguage",
+		"Better CoffeeScript",
+		"Codecs33",
+		"ConvertToUTF8",
+		"Dockerfile Syntax Highlighting",
+		"Emmet",
+		"GitHub Flavored Markdown Preview",
+		"Highlight",
+		"HTML-CSS-JS Prettify",
+		"JSHint Gutter",
+		"Liquid",
+		"LiveScript",
+		"NSIS",
+		"NSIS Completions & Snippets",
+		"Package Control",
+		"Phpcs",
+		"Predawn",
+		"Ruby on Rails snippets",
+		"Sass",
+		"SublimeGit"
+	]
+}
